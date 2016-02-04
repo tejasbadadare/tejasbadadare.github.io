@@ -11,7 +11,7 @@ body {
 }
 
 body {
-    font-family: Merriweather,'Helvetica Neue',Arial,sans-serif;
+    font-family: 'Merriweather', serif;
 }
 
 hr {
@@ -45,11 +45,10 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 p {
-
     margin-bottom: 20px;
     font-size: 16px;
     line-height: 1.5;
@@ -181,7 +180,8 @@ aside {
 
 header {
     position: relative;
-    height: 100;
+    width: 100%;
+    min-height: auto;
     text-align: center;
     color: #fff;
     background-image: url(../img/header.jpg);
@@ -195,7 +195,7 @@ header {
 header .header-content {
     position: relative;
     width: 100%;
-    /*padding: 100px 15px;*/
+    padding: 100px 15px;
     text-align: center;
 }
 
