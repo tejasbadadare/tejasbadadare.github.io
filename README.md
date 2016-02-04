@@ -1,4 +1,4 @@
-# [My website](http://tejasbadadare.github.io/) -
+# [My website](http://tejasbadadare.github.io/) - Hosted by Github Pages.
 
 ## HTML, CSS, Bootstrap
 
